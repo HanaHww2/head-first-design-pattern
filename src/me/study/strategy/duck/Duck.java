@@ -1,7 +1,7 @@
-package me.study.ch1.duck;
+package me.study.strategy.duck;
 
-import me.study.ch1.behavior.FlyBehavior;
-import me.study.ch1.behavior.QuackBehavior;
+import me.study.strategy.behavior.FlyBehavior;
+import me.study.strategy.behavior.QuackBehavior;
 
 public class Duck {
     FlyBehavior flyBehavior;

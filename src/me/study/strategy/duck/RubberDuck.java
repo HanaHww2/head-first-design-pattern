@@ -1,4 +1,4 @@
-package me.study.ch1.duck;
+package me.study.strategy.duck;
 
 public class RubberDuck extends Duck {
     @Override

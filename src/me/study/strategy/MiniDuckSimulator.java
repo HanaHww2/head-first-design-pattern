@@ -1,10 +1,9 @@
-package me.study.ch1;
+package me.study.strategy;
 
-import me.study.ch1.behavior.FlyRocketPowered;
-import me.study.ch1.duck.DecoyDuck;
-import me.study.ch1.duck.Duck;
-import me.study.ch1.duck.MallardDuck;
-import me.study.ch1.duck.ModelDuck;
+import me.study.strategy.behavior.FlyRocketPowered;
+import me.study.strategy.duck.Duck;
+import me.study.strategy.duck.MallardDuck;
+import me.study.strategy.duck.ModelDuck;
 
 public class MiniDuckSimulator {
     public static void main(String[] args) {

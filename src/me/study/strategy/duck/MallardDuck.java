@@ -1,7 +1,7 @@
-package me.study.ch1.duck;
+package me.study.strategy.duck;
 
-import me.study.ch1.behavior.FlyWithWings;
-import me.study.ch1.behavior.Quack;
+import me.study.strategy.behavior.FlyWithWings;
+import me.study.strategy.behavior.Quack;
 
 public class MallardDuck extends Duck{
     public MallardDuck() {

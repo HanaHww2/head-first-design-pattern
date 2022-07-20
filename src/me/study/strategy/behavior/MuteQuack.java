@@ -1,4 +1,4 @@
-package me.study.ch1.behavior;
+package me.study.strategy.behavior;
 
 public class MuteQuack implements QuackBehavior {
 
